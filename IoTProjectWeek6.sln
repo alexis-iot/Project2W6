@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoTProjectWeek6", "IoTProjectWeek6\IoTProjectWeek6.csproj", "{ED163C43-4966-47B1-9C8E-BC7785670512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED163C43-4966-47B1-9C8E-BC7785670512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED163C43-4966-47B1-9C8E-BC7785670512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED163C43-4966-47B1-9C8E-BC7785670512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED163C43-4966-47B1-9C8E-BC7785670512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
